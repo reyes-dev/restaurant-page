@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "This is a project from [The Odin Project](https://www.theodinproject.com/lessons/javascript-restaurant-page) intended to practice working with webpack and DOM manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyes-dev/restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyes-dev/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/reyes-dev/restaurant-page#readme"
+}
