@@ -8,6 +8,7 @@
         },
     "menu":
         {
+            "header":"Menu",
             "ramen": {
                 "name":"Tonkatsu Ramen",
                 "description":"A delicious, savory bowl of ramen topped with egg, pork and green onions."
@@ -22,6 +23,7 @@
                     }
         },
     "contact": {
+        "header":"Contact",
         "owner": {
             "name": "Mei Suzuki",
             "phone": "777-777-7777",
