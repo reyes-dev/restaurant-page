@@ -10,7 +10,9 @@ nav {
     display: flex;
     align-items: center;
     gap: 2rem;
-    justify-content: end;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
 }
 nav > a {
     text-decoration: none;
@@ -20,6 +22,10 @@ h1 {
     grid-column: 1 / 2;
     grid-row: 1 / 1;
     font-size: 2.5rem;
+    border-bottom: 2px solid black;
+}
+h2 {
+    border-bottom: 2px dotted black;
 }
 img {
     grid-row: 2 / 2;

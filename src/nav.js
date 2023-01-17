@@ -21,5 +21,5 @@ export default function generateNav(element) {
     nav.appendChild(menu);
     nav.appendChild(contact);
     // Append nav to div container
-    element.appendChild(nav);
+    document.body.prepend(nav);
 }
