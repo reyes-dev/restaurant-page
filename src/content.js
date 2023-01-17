@@ -7,10 +7,10 @@ export default function generateContent(element) {
     const img = document.createElement('img');
     const paragraph = document.createElement('p');
     // Set their content 
-    header.innerHTML = data.header;
-    img.src = data.imgsrc;
-    img.alt =  data.imgalt;
-    paragraph.innerHTML = data.paragraph;
+    header.innerHTML = data.homepage.header;
+    img.src = data.homepage.imgsrc;
+    img.alt =  data.homepage.imgalt;
+    paragraph.innerHTML = data.homepage.paragraph;
     // Add to passed element
     element.appendChild(header);
     element.appendChild(img);
